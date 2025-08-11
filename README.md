@@ -396,5 +396,5 @@ $Z -niE 'mmc|sdhci|EXT4-fs error|I/O error|Buffer I/O error' -- "$F" || true
 
 ## 謝辞 (Acknowledgments)
 
-本READMEの作成・推敲にあたり、生成AIツール **Gemini (Google)** および **ChatGPT (OpenAI)** を活用しました。両ツールの支援に感謝いたします。
+本READMEの作成・推敲にあたり、生成AIツール **Gemini (Google)** および **ChatGPT (OpenAI)** による技術的提案と文章改善の支援を受けました。両ツールに感謝いたします。
 
