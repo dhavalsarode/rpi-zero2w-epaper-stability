@@ -1,0 +1,17 @@
+# === 作業用スクリプト ===
+sanitize.sh
+
+# === 匿名化前のバックアップファイル ===
+*.bak
+
+# === OSやエディタの一時ファイル ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.swp
+*.swo
+
+# === その他開発環境の一時ディレクトリ ===
+__pycache__/
+
