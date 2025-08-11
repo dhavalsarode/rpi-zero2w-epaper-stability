@@ -1,4 +1,4 @@
-# README — Raspberry Pi Zero 2 W + E-Paper 安定運用ガイド
+# Raspberry Pi Zero 2 W + E-Paper 安定運用ガイド
 SPDX-License-Identifier: MIT
 
 ## 目的
